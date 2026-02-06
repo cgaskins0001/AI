@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+</head>
+<body>
+    <h1>Examples</h1>
+
+    <ul>
+        <li><a href="example1.html">Example 1</a></li>
+        <li><a href="example2.html">Example 2</a></li>
+    </ul>
+</body>
+</html>
